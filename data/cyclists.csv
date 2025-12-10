@@ -1,0 +1,101 @@
+name,birthyear,cyclist_id,team
+Tadej Pogacar,1998,c0a1b001,uae team emirates
+Adam Yates,1992,c0a1b002,uae team emirates
+Joao Almeida,1998,c0a1b003,uae team emirates
+Juan Ayuso,2002,c0a1b004,uae team emirates
+Brandon McNulty,1998,c0a1b005,uae team emirates
+Rafal Majka,1989,c0a1b006,uae team emirates
+Marc Soler,1993,c0a1b007,uae team emirates
+Tim Wellens,1991,c0a1b008,uae team emirates
+Felix Grossschartner,1993,c0a1b009,uae team emirates
+Pavel Sivakov,1997,c0a1b010,uae team emirates
+Jonas Vingegaard,1996,c0a1b101,visma lease a bike
+Wout van Aert,1994,c0a1b102,visma lease a bike
+Sepp Kuss,1994,c0a1b103,visma lease a bike
+Christophe Laporte,1992,c0a1b104,visma lease a bike
+Dylan van Baarle,1992,c0a1b105,visma lease a bike
+Matteo Jorgenson,1999,c0a1b106,visma lease a bike
+Tiesj Benoot,1994,c0a1b107,visma lease a bike
+Jan Tratnik,1990,c0a1b108,visma lease a bike
+Olav Kooij,2001,c0a1b109,visma lease a bike
+Attila Valter,1998,c0a1b110,visma lease a bike
+Geraint Thomas,1986,c0a1b201,ineos grenadiers
+Egan Bernal,1997,c0a1b202,ineos grenadiers
+Tom Pidcock,1999,c0a1b203,ineos grenadiers
+Filippo Ganna,1996,c0a1b204,ineos grenadiers
+Carlos Rodriguez,2001,c0a1b205,ineos grenadiers
+Jonathan Castroviejo,1987,c0a1b206,ineos grenadiers
+Laurens De Plus,1995,c0a1b207,ineos grenadiers
+Ben Turner,1999,c0a1b208,ineos grenadiers
+Ethan Hayter,1998,c0a1b209,ineos grenadiers
+Michal Kwiatkowski,1990,c0a1b210,ineos grenadiers
+Remco Evenepoel,2000,c0a1b301,soudal quick-step
+Julian Alaphilippe,1992,c0a1b302,soudal quick-step
+Mikel Landa,1989,c0a1b303,soudal quick-step
+Andrea Bagioli,1999,c0a1b304,soudal quick-step
+Kasper Asgreen,1995,c0a1b305,soudal quick-step
+Yves Lampaert,1991,c0a1b306,soudal quick-step
+Fabio Jakobsen,1996,c0a1b307,soudal quick-step
+Pieter Serry,1988,c0a1b308,soudal quick-step
+Ilan Van Wilder,2000,c0a1b309,soudal quick-step
+Tim Declercq,1989,c0a1b310,soudal quick-step
+Pello Bilbao,1990,c0a1b401,bahrain victorious
+Matej Mohoric,1994,c0a1b402,bahrain victorious
+Wout Poels,1987,c0a1b403,bahrain victorious
+Damiano Caruso,1987,c0a1b404,bahrain victorious
+Santiago Buitrago,1999,c0a1b405,bahrain victorious
+Fred Wright,1999,c0a1b406,bahrain victorious
+Jack Haig,1993,c0a1b407,bahrain victorious
+Jonathan Milan,2000,c0a1b408,bahrain victorious
+Phil Bauhaus,1994,c0a1b409,bahrain victorious
+Edoardo Zambanini,2001,c0a1b410,bahrain victorious
+Enric Mas,1995,c0a1b501,movistar team
+Alex Aranburu,1995,c0a1b502,movistar team
+Oier Lazkano,1999,c0a1b503,movistar team
+Nelson Oliveira,1989,c0a1b504,movistar team
+Carlos Verona,1992,c0a1b505,movistar team
+Ivan Garcia Cortina,1995,c0a1b506,movistar team
+Einer Rubio,1998,c0a1b507,movistar team
+Fernando Gaviria,1994,c0a1b508,movistar team
+Jorge Arcas,1992,c0a1b509,movistar team
+Abner Gonzalez,2000,c0a1b510,movistar team
+Mads Pedersen,1995,c0a1b601,lidl-trek
+Giulio Ciccone,1994,c0a1b602,lidl-trek
+Jasper Stuyven,1992,c0a1b603,lidl-trek
+Tao Geoghegan Hart,1995,c0a1b604,lidl-trek
+Mattias Skjelmose,2000,c0a1b605,lidl-trek
+Juan Pedro Lopez,1997,c0a1b606,lidl-trek
+Edward Theuns,1991,c0a1b607,lidl-trek
+Bauke Mollema,1986,c0a1b608,lidl-trek
+Toms Skujins,1991,c0a1b609,lidl-trek
+Quinn Simmons,2001,c0a1b610,lidl-trek
+Mathieu van der Poel,1995,c0a1b701,alpecin-deceuninck
+Jasper Philipsen,1998,c0a1b702,alpecin-deceuninck
+Silvan Dillier,1990,c0a1b703,alpecin-deceuninck
+Soren Kragh Andersen,1994,c0a1b704,alpecin-deceuninck
+Gianni Vermeersch,1992,c0a1b705,alpecin-deceuninck
+Xandro Meurisse,1992,c0a1b706,alpecin-deceuninck
+Axel Laurance,2001,c0a1b707,alpecin-deceuninck
+Kaden Groves,1998,c0a1b708,alpecin-deceuninck
+Sam Gaze,1995,c0a1b709,alpecin-deceuninck
+Oscar Riesebeek,1992,c0a1b710,alpecin-deceuninck
+Richard Carapaz,1993,c0a1b801,ef education-easypost
+Rigoberto Uran,1987,c0a1b802,ef education-easypost
+Hugh Carthy,1994,c0a1b803,ef education-easypost
+Ben Healy,2000,c0a1b804,ef education-easypost
+Alberto Bettiol,1993,c0a1b805,ef education-easypost
+Stefan Bissegger,1998,c0a1b806,ef education-easypost
+Magnus Cort,1993,c0a1b807,ef education-easypost
+Esteban Chaves,1990,c0a1b808,ef education-easypost
+Neilson Powless,1996,c0a1b809,ef education-easypost
+Marijn van den Berg,1999,c0a1b810,ef education-easypost
+Primoz Roglic,1989,c0a1b901,bora-hansgrohe
+Jai Hindley,1996,c0a1b902,bora-hansgrohe
+Aleksandr Vlasov,1996,c0a1b903,bora-hansgrohe
+Lennard Kamna,1996,c0a1b904,bora-hansgrohe
+Daniel Oss,1987,c0a1b905,bora-hansgrohe
+Nils Politt,1994,c0a1b906,bora-hansgrohe
+Jordi Meeus,1998,c0a1b907,bora-hansgrohe
+Nico Denz,1994,c0a1b908,bora-hansgrohe
+Sergio Higuita,1997,c0a1b909,bora-hansgrohe
+Emanuel Buchmann,1992,c0a1b910,bora-hansgrohe

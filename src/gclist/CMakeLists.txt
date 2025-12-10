@@ -1,0 +1,7 @@
+add_library(gclist gclist.cc gclist.h)
+target_link_libraries(gclist PUBLIC persons catalog stage)
+target_include_directories(gclist PUBLIC ${CMAKE_CURRENT_LIST_DIR})
+add_executable(gclist1-main gclist1-main.cc)
+add_executable(gclist2-main gclist2-main.cc)
+target_link_libraries(gclist1-main PRIVATE gclist)
+target_link_libraries(gclist2-main PRIVATE gclist)

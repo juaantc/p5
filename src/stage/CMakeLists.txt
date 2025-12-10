@@ -1,0 +1,5 @@
+add_library(stage stage.cc stage.h)
+target_link_libraries(stage PUBLIC persons)
+target_include_directories(stage PUBLIC ${CMAKE_CURRENT_LIST_DIR})
+add_executable(stage-main stage-main.cc)
+target_link_libraries(stage-main PRIVATE stage catalog)
